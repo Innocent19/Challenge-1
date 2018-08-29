@@ -1,13 +1,13 @@
 body {
-    background-image: url("diary.png");
+    background-image: url("../images/diary.png");
     background-repeat: no-repeat;
     background-position: center;
     background-color: lightblue
 }    
-}
+
 h1 {
     font-size: 30px;
-    position: relative;left: 50%; center
+    position: relative;left: 50%; 
     font-family:cursive;
 
 }
@@ -22,17 +22,16 @@ p.bigheading {
     text-align: center;
     font-weight:bolder;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 40px
-    
-    
-
+    font-size: 40px;
 }
+
 p.smallheading {
     text-align: center;
     font-weight: bold;
     color:rgb(128, 0, 70);
     font-size: 30px;
 }
+
 input {
     border-style: double;
     width: 250px;
@@ -47,9 +46,7 @@ p.lastp {
     font-family: 'Times New Roman', Times, serif;
 
 }
-div.bigbody{
-    
-}
+
 button{
     border: solid 2px black;
     position:relative;left: 47%;

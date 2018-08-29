@@ -54,7 +54,7 @@ p.info {
     padding-top: 20px;
 }
 body {
-    background-image: url("dashboard.png");
+    background-image: url("../images/dashboard.png");
     height:100%;
     background-position: center;
     background-repeat: no-repeat;
